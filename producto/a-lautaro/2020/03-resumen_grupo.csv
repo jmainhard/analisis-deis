@@ -1,0 +1,65 @@
+"","sistema_u_otro","grupo","total","tasa_mortalidad"
+"1","Ciertas afecciones originadas en el período perinatal","Feto y recién nacido afectados por factores maternos y por complicaciones del embarazo, del trabajo de parto y del parto",2,4.87032752952636
+"2","Ciertas afecciones originadas en el período perinatal","Trastornos hemorrágicos y hematológicos del feto y del recién nacido",1,2.43516376476318
+"3","Ciertas afecciones originadas en el período perinatal","Trastornos respiratorios y cardiovasculares específicos del período perinatal",1,2.43516376476318
+"4","Ciertas enfermedades infecciosas y parasitarias","Helmintiasis",1,2.43516376476318
+"5","Ciertas enfermedades infecciosas y parasitarias","Otras enfermedades bacterianas",3,7.30549129428954
+"6","Ciertas enfermedades infecciosas y parasitarias","Secuelas de enfermedades infecciosas y parasitarias",1,2.43516376476318
+"7","Códigos para propósitos especiales","Asignación provisoria de nuevas afecciones de etiología incierta",21,51.1384390600268
+"8","Enfermedades de la piel y del tejido subcutáneo","Otros trastornos de la piel y del tejido subcutáneo",1,2.43516376476318
+"9","Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Anemias aplásticas y otras anemias",1,2.43516376476318
+"10","Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Otras enfermedades de la sangre y de los órganos hematopoyéticos",1,2.43516376476318
+"11","Enfermedades del sistema circulatorio","Enfermedades cerebrovasculares",23,56.0087665895531
+"12","Enfermedades del sistema circulatorio","Enfermedades de las arterias, de las arteriolas y de los vasos capilares",3,7.30549129428954
+"13","Enfermedades del sistema circulatorio","Enfermedades de las venas y de los vasos y ganglios linfáticos, no clasificadas en otra parte",1,2.43516376476318
+"14","Enfermedades del sistema circulatorio","Enfermedades hipertensivas",19,46.2681115305004
+"15","Enfermedades del sistema circulatorio","Enfermedades isquémicas del corazón",17,41.3977840009741
+"16","Enfermedades del sistema circulatorio","Otras formas de enfermedad del corazón",10,24.3516376476318
+"17","Enfermedades del sistema digestivo","Enfermedades del esófago, del estómago y del duodeno",1,2.43516376476318
+"18","Enfermedades del sistema digestivo","Enfermedades del hígado",7,17.0461463533423
+"19","Enfermedades del sistema digestivo","Enfermedades del peritoneo",1,2.43516376476318
+"20","Enfermedades del sistema digestivo","Otras enfermedades de los intestinos",1,2.43516376476318
+"21","Enfermedades del sistema digestivo","Otras enfermedades del sistema digestivo",3,7.30549129428954
+"22","Enfermedades del sistema digestivo","Trastornos de la vesícula biliar, de las vías biliares y del páncreas",3,7.30549129428954
+"23","Enfermedades del sistema genitourinario","Enfermedad renal tubulointersticial",2,4.87032752952636
+"24","Enfermedades del sistema genitourinario","Insuficiencia renal",2,4.87032752952636
+"25","Enfermedades del sistema genitourinario","Otras enfermedades del sistema urinario",2,4.87032752952636
+"26","Enfermedades del sistema nervioso central","Atrofias sistémicas que afectan principalmente el sistema nervioso central",2,4.87032752952636
+"27","Enfermedades del sistema nervioso central","Otras enfermedades degenerativas del sistema nervioso",4,9.74065505905272
+"28","Enfermedades del sistema nervioso central","Otros trastornos del sistema nervioso",2,4.87032752952636
+"29","Enfermedades del sistema nervioso central","Parálisis cerebral y otros síndromes paralíticos",1,2.43516376476318
+"30","Enfermedades del sistema osteomuscular y del tejido conjuntivo","Trastornos sistémicos del tejido conjuntivo",2,4.87032752952636
+"31","Enfermedades del sistema respiratorio","Enfermedades crónicas de las vías respiratorias inferiores",7,17.0461463533423
+"32","Enfermedades del sistema respiratorio","Enfermedades del pulmón debidas a agentes externos",4,9.74065505905272
+"33","Enfermedades del sistema respiratorio","Influenza [gripe] y neumonía",7,17.0461463533423
+"34","Enfermedades del sistema respiratorio","Otras enfermedades de la pleura",1,2.43516376476318
+"35","Enfermedades del sistema respiratorio","Otras enfermedades respiratorias que afectan principalmente al intersticio",6,14.6109825885791
+"36","Enfermedades endocrinas, nutricionales y metabólicas","Desnutrición",2,4.87032752952636
+"37","Enfermedades endocrinas, nutricionales y metabólicas","Diabetes mellitus",5,12.1758188238159
+"38","Enfermedades endocrinas, nutricionales y metabólicas","Trastornos de otras glándulas endocrinas",1,2.43516376476318
+"39","Enfermedades endocrinas, nutricionales y metabólicas","Trastornos metabólicos",1,2.43516376476318
+"40","Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Causas de mortalidad mal definidas y desconocidas",9,21.9164738828686
+"41","Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos generales",4,9.74065505905272
+"42","Trastornos mentales y del comportamiento","Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",9,21.9164738828686
+"43","Trastornos mentales y del comportamiento","Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas",1,2.43516376476318
+"44","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Efectos de cuerpos extraños que penetran por orificios naturales",1,2.43516376476318
+"45","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Efectos tóxicos de sustancias de procedencia principalmente no medicinal",2,4.87032752952636
+"46","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Otros efectos y los no especificados de causas externas",8,19.4813101181054
+"47","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Quemaduras y corrosiones",1,2.43516376476318
+"48","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de la cabeza",6,14.6109825885791
+"49","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de la cadera y del muslo",2,4.87032752952636
+"50","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de parte no especificada del tronco, miembro o región del cuerpo",2,4.87032752952636
+"51","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del antebrazo y del codo",1,2.43516376476318
+"52","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del tórax",1,2.43516376476318
+"53","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos que afectan múltiples regiones del cuerpo",6,14.6109825885791
+"54","Tumores [Neoplasias]","Melanoma y otros tumores malignos de la piel",1,2.43516376476318
+"55","Tumores [Neoplasias]","Tumor maligno de la mama",2,4.87032752952636
+"56","Tumores [Neoplasias]","Tumores [neoplasias] de comportamiento incierto o desconocido",1,2.43516376476318
+"57","Tumores [Neoplasias]","Tumores [neoplasias] malignos de sitios mal definidos, secundarios y de sitios no especificados",2,4.87032752952636
+"58","Tumores [Neoplasias]","Tumores [neoplasias] malignos del tejido linfático, de los órganos hematopoyéticos y de tejidos afines",4,9.74065505905272
+"59","Tumores [Neoplasias]","Tumores malignos de las vías urinarias",3,7.30549129428954
+"60","Tumores [Neoplasias]","Tumores malignos de los órganos digestivos",48,116.887860708633
+"61","Tumores [Neoplasias]","Tumores malignos de los órganos genitales femeninos",3,7.30549129428954
+"62","Tumores [Neoplasias]","Tumores malignos de los órganos genitales masculinos",6,14.6109825885791
+"63","Tumores [Neoplasias]","Tumores malignos de los órganos respiratorios e intratorácicos",5,12.1758188238159
+"64","Tumores [Neoplasias]","Tumores malignos del ojo, del encéfalo y de otras partes del sistema nervioso central",3,7.30549129428954

@@ -1,0 +1,187 @@
+"sistema_u_otro","grupo","total","tasa_mortalidad"
+"Ciertas afecciones originadas en el período perinatal","Afecciones asociadas con la regulación tegumentaria y la temperatura del feto y del recién nacido",10,0.0508172351531476
+"Ciertas afecciones originadas en el período perinatal","Feto y recién nacido afectados por factores maternos y por complicaciones del embarazo, del trabajo de parto y del parto",76,0.386210987163922
+"Ciertas afecciones originadas en el período perinatal","Infecciones específicas del período perinatal",76,0.386210987163922
+"Ciertas afecciones originadas en el período perinatal","Otros trastornos originados en el período perinatal",2,0.0101634470306295
+"Ciertas afecciones originadas en el período perinatal","Trastornos del sistema digestivo del feto y del recién nacido",46,0.233759281704479
+"Ciertas afecciones originadas en el período perinatal","Trastornos endocrinos y metabólicos transitorios específicos del feto y del recién nacido",2,0.0101634470306295
+"Ciertas afecciones originadas en el período perinatal","Trastornos hemorrágicos y hematológicos del feto y del recién nacido",18,0.0914710232756658
+"Ciertas afecciones originadas en el período perinatal","Trastornos relacionados con la duración de la gestación y el crecimiento fetal",105,0.53358096910805
+"Ciertas afecciones originadas en el período perinatal","Trastornos respiratorios y cardiovasculares específicos del período perinatal",166,0.843566103542251
+"Ciertas enfermedades infecciosas y parasitarias","Ciertas zoonosis bacterianas",1,0.00508172351531476
+"Ciertas enfermedades infecciosas y parasitarias","Enfermedad por virus de la inmunodeficiencia humana [VIH]",228,1.15863296149177
+"Ciertas enfermedades infecciosas y parasitarias","Enfermedades debidas a protozoarios",81,0.411619604740496
+"Ciertas enfermedades infecciosas y parasitarias","Enfermedades infecciosas intestinales",307,1.56008911920163
+"Ciertas enfermedades infecciosas y parasitarias","Helmintiasis",11,0.0558989586684624
+"Ciertas enfermedades infecciosas y parasitarias","Hepatitis viral",32,0.162615152490072
+"Ciertas enfermedades infecciosas y parasitarias","Infecciones con modo de transmisión predominantemente sexual",5,0.0254086175765738
+"Ciertas enfermedades infecciosas y parasitarias","infecciones del sistema nervioso central",105,0.53358096910805
+"Ciertas enfermedades infecciosas y parasitarias","Infecciones virales caracterizadas por lesiones de la piel y de las membranas mucosas",19,0.0965527467909805
+"Ciertas enfermedades infecciosas y parasitarias","Micosis",56,0.284576516857627
+"Ciertas enfermedades infecciosas y parasitarias","Otras enfermedades bacterianas",1077,5.473016225994
+"Ciertas enfermedades infecciosas y parasitarias","Otras enfermedades infecciosas",25,0.127043087882869
+"Ciertas enfermedades infecciosas y parasitarias","Otras enfermedades virales",36,0.182942046551332
+"Ciertas enfermedades infecciosas y parasitarias","Secuelas de enfermedades infecciosas y parasitarias",61,0.309985134434201
+"Ciertas enfermedades infecciosas y parasitarias","Tuberculosis",232,1.17895985555303
+"Códigos para propósitos especiales","Asignación provisoria de nuevas afecciones de etiología incierta",27985,142.212032576084
+"Embarazo, parto y puerperio","Atención materna relacionada con el feto y la cavidad amniótica y con posibles problemas del parto",2,0.0101634470306295
+"Embarazo, parto y puerperio","Complicaciones del trabajo de parto y del parto",1,0.00508172351531476
+"Embarazo, parto y puerperio","Complicaciones principalmente relacionadas con el puerperio",2,0.0101634470306295
+"Embarazo, parto y puerperio","Edema, proteinuria y trastornos hipertensivos en el embarazo, el parto y el puerperio",2,0.0101634470306295
+"Embarazo, parto y puerperio","Embarazo terminado en aborto",6,0.0304903410918886
+"Embarazo, parto y puerperio","Otras afecciones obstétricas no clasificadas en otra parte",25,0.127043087882869
+"Embarazo, parto y puerperio","Otros trastornos maternos relacionados principalmente con el embarazo",1,0.00508172351531476
+"Enfermedades de la piel y del tejido subcutáneo","Infecciones de la piel y del tejido subcutáneo",408,2.07334319424842
+"Enfermedades de la piel y del tejido subcutáneo","Otros trastornos de la piel y del tejido subcutáneo",526,2.67298656905557
+"Enfermedades de la piel y del tejido subcutáneo","Trastornos flictenulares",11,0.0558989586684624
+"Enfermedades de la piel y del tejido subcutáneo","Trastornos papuloescamosos",1,0.00508172351531476
+"Enfermedades de la piel y del tejido subcutáneo","Urticaria y eritema",4,0.0203268940612591
+"Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Anemias aplásticas y otras anemias",343,1.74303116575296
+"Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Anemias hemolíticas",17,0.086389299760351
+"Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Anemias nutricionales",21,0.10671619382161
+"Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Ciertos trastornos que afectan el mecanismo de la inmunidad",68,0.345557199041404
+"Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Defectos de la coagulación, púrpura y otras afecciones hemorrágicas",134,0.680950951052179
+"Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Otras enfermedades de la sangre y de los órganos hematopoyéticos",43,0.218514111158535
+"Enfermedades del oído y de la apófisis mastoides","Enfermedades del oído externo",1,0.00508172351531476
+"Enfermedades del oído y de la apófisis mastoides","Enfermedades del oído interno",1,0.00508172351531476
+"Enfermedades del ojo y sus anexos","Glaucoma",2,0.0101634470306295
+"Enfermedades del ojo y sus anexos","Trastornos del cuerpo vítreo y del globo ocular",1,0.00508172351531476
+"Enfermedades del ojo y sus anexos","Trastornos del párpado, aparato lagrimal y órbita",1,0.00508172351531476
+"Enfermedades del sistema circulatorio","Enfermedad cardiopulmonar y enfermedades de la circulación pulmonar",707,3.59277852532754
+"Enfermedades del sistema circulatorio","Enfermedades cardíacas reumáticas crónicas",102,0.518335798562106
+"Enfermedades del sistema circulatorio","Enfermedades cerebrovasculares",7501,38.1180080883761
+"Enfermedades del sistema circulatorio","Enfermedades de las arterias, de las arteriolas y de los vasos capilares",851,4.32454671153286
+"Enfermedades del sistema circulatorio","Enfermedades de las venas y de los vasos y ganglios linfáticos, no clasificadas en otra parte",298,1.5143536075638
+"Enfermedades del sistema circulatorio","Enfermedades hipertensivas",6709,34.0932830642468
+"Enfermedades del sistema circulatorio","Enfermedades isquémicas del corazón",8519,43.2912026269665
+"Enfermedades del sistema circulatorio","Otras formas de enfermedad del corazón",4427,22.4967900022985
+"Enfermedades del sistema circulatorio","Otros trastornos y los no especificados del sistema circulatorio",25,0.127043087882869
+"Enfermedades del sistema digestivo","Enfermedades del apéndice",35,0.177860323036017
+"Enfermedades del sistema digestivo","Enfermedades del esófago, del estómago y del duodeno",363,1.84466563605926
+"Enfermedades del sistema digestivo","Enfermedades del hígado",4755,24.1635953153217
+"Enfermedades del sistema digestivo","Enfermedades del peritoneo",418,2.12416042940157
+"Enfermedades del sistema digestivo","Enteritis y colitis no infecciosas",50,0.254086175765738
+"Enfermedades del sistema digestivo","Hernia",228,1.15863296149177
+"Enfermedades del sistema digestivo","Otras enfermedades de los intestinos",1307,6.6418126345164
+"Enfermedades del sistema digestivo","Otras enfermedades del sistema digestivo",948,4.8174738925184
+"Enfermedades del sistema digestivo","Trastornos de la vesícula biliar, de las vías biliares y del páncreas",940,4.77682010439588
+"Enfermedades del sistema digestivo","Trastornos del desarrollo y de la erupción de los dientes",4,0.0203268940612591
+"Enfermedades del sistema genitourinario","Enfermedad renal tubulointersticial",443,2.25120351728444
+"Enfermedades del sistema genitourinario","Enfermedades de los órganos genitales masculinos",132,0.670787504021549
+"Enfermedades del sistema genitourinario","Enfermedades glomerulares",35,0.177860323036017
+"Enfermedades del sistema genitourinario","Enfermedades inflamatorias de los órganos pélvicos femeninos",37,0.188023770066646
+"Enfermedades del sistema genitourinario","Insuficiencia renal",1696,8.61860308197384
+"Enfermedades del sistema genitourinario","Litiasis urinaria",21,0.10671619382161
+"Enfermedades del sistema genitourinario","Otras enfermedades del sistema urinario",1345,6.83491812809836
+"Enfermedades del sistema genitourinario","Otros trastornos del riñón y del uréter",28,0.142288258428813
+"Enfermedades del sistema genitourinario","Trastornos de la mama",3,0.0152451705459443
+"Enfermedades del sistema genitourinario","Trastornos no inflamatorios de los órganos genitales femeninos",16,0.0813075762450362
+"Enfermedades del sistema nervioso central","Atrofias sistémicas que afectan principalmente el sistema nervioso central",226,1.14846951446114
+"Enfermedades del sistema nervioso central","Enfermedades desmielinizantes del sistema nervioso central",24,0.121961364367554
+"Enfermedades del sistema nervioso central","Enfermedades musculares y de la unión neuromuscular",74,0.376047540133293
+"Enfermedades del sistema nervioso central","Meningitis bacteriana, no clasificada en otra parte",107,0.54374441613868
+"Enfermedades del sistema nervioso central","Otras enfermedades degenerativas del sistema nervioso",2343,11.9064781963825
+"Enfermedades del sistema nervioso central","Otros trastornos del sistema nervioso",378,1.92089148878898
+"Enfermedades del sistema nervioso central","Parálisis cerebral y otros síndromes paralíticos",147,0.74701335675127
+"Enfermedades del sistema nervioso central","Polineuropatías y otros trastornos del sistema nervioso periférico",43,0.218514111158535
+"Enfermedades del sistema nervioso central","Trastornos de los nervios, de las raíces y de los plexos nerviosos",1,0.00508172351531476
+"Enfermedades del sistema nervioso central","Trastornos episódicos y paroxísticos",347,1.76335805981422
+"Enfermedades del sistema nervioso central","Trastornos extrapiramidales y del movimiento",719,3.65375920751132
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Artropatías infecciosas",20,0.101634470306295
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Artrosis",91,0.462436839893644
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Condropatías",1,0.00508172351531476
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Dorsopatías deformantes",5,0.0254086175765738
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Espondilopatías",37,0.188023770066646
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Otras dorsopatías",4,0.0203268940612591
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Otras osteopatías",58,0.294739963888256
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Otros trastornos articulares",6,0.0304903410918886
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Otros trastornos de los tejidos blandos",52,0.264249622796368
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Otros trastornos del sistema osteomuscular y del tejido conjuntivo",1,0.00508172351531476
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Poliartropatías inflamatorias",105,0.53358096910805
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Trastornos de la densidad y de la estructura óseas",9,0.0457355116378329
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Trastornos de los músculos",35,0.177860323036017
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Trastornos de los tendones y de la sinovia",1,0.00508172351531476
+"Enfermedades del sistema osteomuscular y del tejido conjuntivo","Trastornos sistémicos del tejido conjuntivo",154,0.782585421358474
+"Enfermedades del sistema respiratorio","Afecciones supurativas y necróticas de las vías respiratorias inferiores",71,0.360802369587348
+"Enfermedades del sistema respiratorio","Enfermedades crónicas de las vías respiratorias inferiores",2907,14.77257025902
+"Enfermedades del sistema respiratorio","Enfermedades del pulmón debidas a agentes externos",1571,7.9833876425595
+"Enfermedades del sistema respiratorio","Infecciones agudas de las vías respiratorias superiores",5,0.0254086175765738
+"Enfermedades del sistema respiratorio","Influenza [gripe] y neumonía",2938,14.9301036879948
+"Enfermedades del sistema respiratorio","Otras enfermedades de la pleura",152,0.772421974327844
+"Enfermedades del sistema respiratorio","Otras enfermedades de las vías respiratorias superiores",14,0.0711441292144067
+"Enfermedades del sistema respiratorio","Otras enfermedades del sistema respiratorio",1037,5.26974728538141
+"Enfermedades del sistema respiratorio","Otras enfermedades respiratorias que afectan principalmente al intersticio",1896,9.63494778503679
+"Enfermedades del sistema respiratorio","Otras infecciones agudas de las vías respiratorias inferiores",110,0.558989586684624
+"Enfermedades endocrinas, nutricionales y metabólicas","Desnutrición",305,1.549925672171
+"Enfermedades endocrinas, nutricionales y metabólicas","Diabetes mellitus",3541,17.9943829677296
+"Enfermedades endocrinas, nutricionales y metabólicas","Obesidad y otros tipos de hiperalimentación",151,0.767340250812529
+"Enfermedades endocrinas, nutricionales y metabólicas","Otras deficiencias nutricionales",9,0.0457355116378329
+"Enfermedades endocrinas, nutricionales y metabólicas","Otros trastornos de la regulación de la glucosa y de la secreción interna del páncreas",65,0.33031202849546
+"Enfermedades endocrinas, nutricionales y metabólicas","Trastornos de la glándula tiroides",134,0.680950951052179
+"Enfermedades endocrinas, nutricionales y metabólicas","Trastornos de otras glándulas endocrinas",17,0.086389299760351
+"Enfermedades endocrinas, nutricionales y metabólicas","Trastornos metabólicos",701,3.56228818423565
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Anomalías cromosómicas, no clasificadas en otra parte",131,0.665705780506234
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Fisura del paladar y labio leporino",1,0.00508172351531476
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Malformaciones congénitas del sistema circulatorio",202,1.02650815009358
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Malformaciones congénitas del sistema nervioso",69,0.350638922556719
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Malformaciones congénitas del sistema respiratorio",16,0.0813075762450362
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Malformaciones congénitas del sistema urinario",42,0.21343238764322
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Malformaciones y deformidades congénitas del sistema osteomuscular",45,0.228677558189164
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Otras malformaciones congénitas",53,0.269331346311683
+"Malformaciones congénitas, deformidades y anomalías cromosómicas","Otras malformaciones congénitas del sistema digestivo",9,0.0457355116378329
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Causas de mortalidad mal definidas y desconocidas",2396,12.1758095426942
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Hallazgos anormales en el examen de sangre, sin diagnóstico",3,0.0152451705459443
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos generales",1847,9.38594333278637
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos que involucran el conocimiento, la percepción, el estado emocional y la conducta",16,0.0813075762450362
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos que involucran el sistema digestivo y el abdomen",28,0.142288258428813
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos que involucran el sistema urinario",2,0.0101634470306295
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos que involucran la piel y el tejido subcutáneo",1,0.00508172351531476
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos que involucran los sistemas circulatorio y respiratorio",95,0.482763733954903
+"Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos que involucran los sistemas nervioso y osteomuscular",121,0.614888545353087
+"Trastornos mentales y del comportamiento","Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",42,0.21343238764322
+"Trastornos mentales y del comportamiento","Retraso mental",14,0.0711441292144067
+"Trastornos mentales y del comportamiento","Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos",2,0.0101634470306295
+"Trastornos mentales y del comportamiento","Trastornos de la personalidad y del comportamiento en adultos",1,0.00508172351531476
+"Trastornos mentales y del comportamiento","Trastornos del desarrollo psicológico",5,0.0254086175765738
+"Trastornos mentales y del comportamiento","Trastornos del humor [afectivos]",27,0.137206534913499
+"Trastornos mentales y del comportamiento","Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",2122,10.7834172994979
+"Trastornos mentales y del comportamiento","Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas",360,1.82942046551332
+"Trastornos mentales y del comportamiento","Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",7,0.0355720646072034
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Algunas complicaciones precoces de traumatismos",5,0.0254086175765738
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Complicaciones de la atención médica y quirúrgica, no clasificadas en otra parte",173,0.879138168149454
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Congelamiento",1,0.00508172351531476
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Efectos de cuerpos extraños que penetran por orificios naturales",141,0.716523015659382
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Efectos tóxicos de sustancias de procedencia principalmente no medicinal",287,1.45845464889534
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Envenenamiento por drogas, medicamentos y sustancias biológicas",91,0.462436839893644
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Otros efectos y los no especificados de causas externas",1861,9.45708746200078
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Quemaduras y corrosiones",254,1.29075777288995
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Secuelas de traumatismos, de envenamiento y de otras consecuencias de causas externas",53,0.269331346311683
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de la cabeza",1639,8.3289448416009
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de la cadera y del muslo",525,2.66790484554025
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de la muñeca y de la mano",2,0.0101634470306295
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de la rodilla y de la pierna",22,0.111797917336925
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de parte no especificada del tronco, miembro o región del cuerpo",223,1.13322434391519
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del abdomen, de la región lumbosacra, de la columna lumbar y de la pelvis",210,1.0671619382161
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del antebrazo y del codo",11,0.0558989586684624
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del cuello",110,0.558989586684624
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del hombro y del brazo",26,0.132124811398184
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del tobillo y del pie",2,0.0101634470306295
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del tórax",563,2.86101033912221
+"Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos que afectan múltiples regiones del cuerpo",1591,8.08502211286579
+"Tumores [Neoplasias]","Melanoma y otros tumores malignos de la piel",497,2.52561658711144
+"Tumores [Neoplasias]","Tumor maligno de la mama",1564,7.94781557795229
+"Tumores [Neoplasias]","Tumores [neoplasias] benignos",75,0.381129263648607
+"Tumores [Neoplasias]","Tumores [neoplasias] de comportamiento incierto o desconocido",1122,5.70169378418317
+"Tumores [Neoplasias]","Tumores [neoplasias] in situ",11,0.0558989586684624
+"Tumores [Neoplasias]","Tumores [neoplasias] malignos de sitios mal definidos, secundarios y de sitios no especificados",947,4.81239216900308
+"Tumores [Neoplasias]","Tumores [neoplasias] malignos del tejido linfático, de los órganos hematopoyéticos y de tejidos afines",1737,8.82695374610175
+"Tumores [Neoplasias]","Tumores malignos de la glándula tiroides y de otras glándulas endocrinas",172,0.87405644463414
+"Tumores [Neoplasias]","Tumores malignos de las vías urinarias",1487,7.55652286727306
+"Tumores [Neoplasias]","Tumores malignos de los huesos y de los cartílagos articulares de los miembros",131,0.665705780506234
+"Tumores [Neoplasias]","Tumores malignos de los órganos digestivos",10758,54.6691815777562
+"Tumores [Neoplasias]","Tumores malignos de los órganos genitales femeninos",1613,8.19682003020272
+"Tumores [Neoplasias]","Tumores malignos de los órganos genitales masculinos",2331,11.8454975141987
+"Tumores [Neoplasias]","Tumores malignos de los órganos respiratorios e intratorácicos",3514,17.8571764328161
+"Tumores [Neoplasias]","Tumores malignos de los tejidos mesoteliales y de los tejidos blandos",305,1.549925672171
+"Tumores [Neoplasias]","Tumores malignos del labio, de la cavidad bucal y de la faringe",298,1.5143536075638
+"Tumores [Neoplasias]","Tumores malignos del ojo, del encéfalo y de otras partes del sistema nervioso central",479,2.43414556383577

@@ -1,0 +1,66 @@
+"","sistema_u_otro","grupo","total","tasa_mortalidad"
+"1","Ciertas afecciones originadas en el período perinatal","Trastornos del sistema digestivo del feto y del recién nacido",2,4.87032752952636
+"2","Ciertas afecciones originadas en el período perinatal","Trastornos relacionados con la duración de la gestación y el crecimiento fetal",1,2.43516376476318
+"3","Ciertas afecciones originadas en el período perinatal","Trastornos respiratorios y cardiovasculares específicos del período perinatal",1,2.43516376476318
+"4","Ciertas enfermedades infecciosas y parasitarias","Enfermedad por virus de la inmunodeficiencia humana [VIH]",1,2.43516376476318
+"5","Ciertas enfermedades infecciosas y parasitarias","Otras enfermedades bacterianas",4,9.74065505905272
+"6","Ciertas enfermedades infecciosas y parasitarias","Secuelas de enfermedades infecciosas y parasitarias",2,4.87032752952636
+"7","Ciertas enfermedades infecciosas y parasitarias","Tuberculosis",1,2.43516376476318
+"8","Enfermedades de la piel y del tejido subcutáneo","Otros trastornos de la piel y del tejido subcutáneo",1,2.43516376476318
+"9","Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Anemias aplásticas y otras anemias",1,2.43516376476318
+"10","Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan el mecanismo de la inmunidad","Anemias nutricionales",1,2.43516376476318
+"11","Enfermedades del sistema circulatorio","Enfermedades cerebrovasculares",20,48.7032752952636
+"12","Enfermedades del sistema circulatorio","Enfermedades de las arterias, de las arteriolas y de los vasos capilares",2,4.87032752952636
+"13","Enfermedades del sistema circulatorio","Enfermedades de las venas y de los vasos y ganglios linfáticos, no clasificadas en otra parte",2,4.87032752952636
+"14","Enfermedades del sistema circulatorio","Enfermedades hipertensivas",11,26.786801412395
+"15","Enfermedades del sistema circulatorio","Enfermedades isquémicas del corazón",11,26.786801412395
+"16","Enfermedades del sistema circulatorio","Otras formas de enfermedad del corazón",5,12.1758188238159
+"17","Enfermedades del sistema digestivo","Enfermedades del esófago, del estómago y del duodeno",1,2.43516376476318
+"18","Enfermedades del sistema digestivo","Enfermedades del hígado",11,26.786801412395
+"19","Enfermedades del sistema digestivo","Enfermedades del peritoneo",2,4.87032752952636
+"20","Enfermedades del sistema digestivo","Hernia",1,2.43516376476318
+"21","Enfermedades del sistema digestivo","Otras enfermedades de los intestinos",7,17.0461463533423
+"22","Enfermedades del sistema digestivo","Otras enfermedades del sistema digestivo",1,2.43516376476318
+"23","Enfermedades del sistema digestivo","Trastornos de la vesícula biliar, de las vías biliares y del páncreas",2,4.87032752952636
+"24","Enfermedades del sistema genitourinario","Enfermedad renal tubulointersticial",3,7.30549129428954
+"25","Enfermedades del sistema genitourinario","Insuficiencia renal",4,9.74065505905272
+"26","Enfermedades del sistema genitourinario","Otras enfermedades del sistema urinario",2,4.87032752952636
+"27","Enfermedades del sistema nervioso central","Meningitis bacteriana, no clasificada en otra parte",1,2.43516376476318
+"28","Enfermedades del sistema nervioso central","Otras enfermedades degenerativas del sistema nervioso",6,14.6109825885791
+"29","Enfermedades del sistema nervioso central","Otros trastornos del sistema nervioso",2,4.87032752952636
+"30","Enfermedades del sistema nervioso central","Trastornos extrapiramidales y del movimiento",3,7.30549129428954
+"31","Enfermedades del sistema osteomuscular y del tejido conjuntivo","Trastornos sistémicos del tejido conjuntivo",1,2.43516376476318
+"32","Enfermedades del sistema respiratorio","Enfermedades crónicas de las vías respiratorias inferiores",7,17.0461463533423
+"33","Enfermedades del sistema respiratorio","Enfermedades del pulmón debidas a agentes externos",1,2.43516376476318
+"34","Enfermedades del sistema respiratorio","Influenza [gripe] y neumonía",7,17.0461463533423
+"35","Enfermedades del sistema respiratorio","Otras enfermedades de la pleura",1,2.43516376476318
+"36","Enfermedades del sistema respiratorio","Otras enfermedades del sistema respiratorio",2,4.87032752952636
+"37","Enfermedades del sistema respiratorio","Otras enfermedades respiratorias que afectan principalmente al intersticio",7,17.0461463533423
+"38","Enfermedades endocrinas, nutricionales y metabólicas","Desnutrición",2,4.87032752952636
+"39","Enfermedades endocrinas, nutricionales y metabólicas","Diabetes mellitus",6,14.6109825885791
+"40","Enfermedades endocrinas, nutricionales y metabólicas","Otros trastornos de la regulación de la glucosa y de la secreción interna del páncreas",1,2.43516376476318
+"41","Enfermedades endocrinas, nutricionales y metabólicas","Trastornos metabólicos",1,2.43516376476318
+"42","Malformaciones congénitas, deformidades y anomalías cromosómicas","Anomalías cromosómicas, no clasificadas en otra parte",2,4.87032752952636
+"43","Malformaciones congénitas, deformidades y anomalías cromosómicas","Otras malformaciones congénitas",1,2.43516376476318
+"44","Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Causas de mortalidad mal definidas y desconocidas",12,29.2219651771582
+"45","Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos generales",5,12.1758188238159
+"46","Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte","Síntomas y signos que involucran los sistemas nervioso y osteomuscular",1,2.43516376476318
+"47","Trastornos mentales y del comportamiento","Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",3,7.30549129428954
+"48","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Otros efectos y los no especificados de causas externas",6,14.6109825885791
+"49","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Quemaduras y corrosiones",1,2.43516376476318
+"50","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Secuelas de traumatismos, de envenamiento y de otras consecuencias de causas externas",1,2.43516376476318
+"51","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de la cabeza",2,4.87032752952636
+"52","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos de la cadera y del muslo",2,4.87032752952636
+"53","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos del tórax",1,2.43516376476318
+"54","Traumatismos, envenenamientos y algunas otras consecuencias de causas externas","Traumatismos que afectan múltiples regiones del cuerpo",4,9.74065505905272
+"55","Tumores [Neoplasias]","Melanoma y otros tumores malignos de la piel",4,9.74065505905272
+"56","Tumores [Neoplasias]","Tumor maligno de la mama",3,7.30549129428954
+"57","Tumores [Neoplasias]","Tumores [neoplasias] de comportamiento incierto o desconocido",4,9.74065505905272
+"58","Tumores [Neoplasias]","Tumores [neoplasias] malignos de sitios mal definidos, secundarios y de sitios no especificados",5,12.1758188238159
+"59","Tumores [Neoplasias]","Tumores [neoplasias] malignos del tejido linfático, de los órganos hematopoyéticos y de tejidos afines",10,24.3516376476318
+"60","Tumores [Neoplasias]","Tumores malignos de las vías urinarias",2,4.87032752952636
+"61","Tumores [Neoplasias]","Tumores malignos de los órganos digestivos",17,41.3977840009741
+"62","Tumores [Neoplasias]","Tumores malignos de los órganos genitales masculinos",5,12.1758188238159
+"63","Tumores [Neoplasias]","Tumores malignos de los órganos respiratorios e intratorácicos",4,9.74065505905272
+"64","Tumores [Neoplasias]","Tumores malignos del labio, de la cavidad bucal y de la faringe",1,2.43516376476318
+"65","Tumores [Neoplasias]","Tumores malignos del ojo, del encéfalo y de otras partes del sistema nervioso central",3,7.30549129428954
